@@ -6,7 +6,16 @@ namespace Programa_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello 2World!");
+          int a=0;
+            do
+            {
+                
+                a = a+ 1;
+                Console.WriteLine(a);
+                Console.ReadKey();
+            }
+
+            while (a <= 9);
         }
     }
 }
