@@ -1,0 +1,16 @@
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\bin\Debug\net5.0\Programa 1.exe
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\bin\Debug\net5.0\Programa 1.deps.json
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\bin\Debug\net5.0\Programa 1.runtimeconfig.json
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\bin\Debug\net5.0\Programa 1.runtimeconfig.dev.json
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\bin\Debug\net5.0\Programa 1.dll
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\bin\Debug\net5.0\ref\Programa 1.dll
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\bin\Debug\net5.0\Programa 1.pdb
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\obj\Debug\net5.0\Programa 1.csprojAssemblyReference.cache
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\obj\Debug\net5.0\Programa 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\obj\Debug\net5.0\Programa 1.AssemblyInfoInputs.cache
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\obj\Debug\net5.0\Programa 1.AssemblyInfo.cs
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\obj\Debug\net5.0\Programa 1.csproj.CoreCompileInputs.cache
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\obj\Debug\net5.0\Programa 1.dll
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\obj\Debug\net5.0\ref\Programa 1.dll
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\obj\Debug\net5.0\Programa 1.pdb
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Tarea 3\Programa 1\obj\Debug\net5.0\Programa 1.genruntimeconfig.cache
