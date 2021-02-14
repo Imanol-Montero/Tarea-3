@@ -1,12 +1,13 @@
 ﻿using System;
-
-namespace Programa_4
+ 
+public class Programa_4
 {
-    class Program
+    public static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        char letra;
+ 
+       for (letra='Z'; letra>='A'; letra--)
+            Console.Write("{0} ", letra);
     }
 }
+ 
